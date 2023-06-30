@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "decks",
+  "info": {
+    "singularName": "deck",
+    "pluralName": "decks",
+    "displayName": "Buses",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ruta": {
+      "type": "string"
+    },
+    "horario": {
+      "type": "time"
+    }
+  }
+}
